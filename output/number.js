@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var num1 = 10;
 var num2 = 20;
 var num3 = "30";
@@ -19,3 +17,4 @@ var itemConvert = +(item2);
 //INFERENCE
 var data = 30;
 data = "jeet";
+export {};
